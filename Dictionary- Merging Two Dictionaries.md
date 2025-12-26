@@ -20,7 +20,8 @@ dict3=merge(dict1,dict2)
 print(dict3)
 ```
 ## Output
-![Uploading image.png…]()
+<img width="990" height="176" alt="image" src="https://github.com/user-attachments/assets/3b90143c-86ea-4afe-94c6-64a06750f533" />
+
 
 ## Result
 Thus,the program has been executed successfully.
